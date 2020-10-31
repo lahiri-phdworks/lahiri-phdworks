@@ -8,5 +8,3 @@ and software frameworks during my `research` where `KLEE`, `LLVM`, `Z3`, `CVC4`,
  <img align="center"  height="90%" width="90%" src="https://github-readme-stats.vercel.app/api?username=lahiri-phdworks&show_icons=true&theme=dark&line_height=20" alt="PhD Works Stats"/>
 </a>
 <div align="center">
-
-![Hacktoberfest](https://github.com/lahiri-phdworks/lahiri-phdworks/blob/master/hacktoberfest.png)

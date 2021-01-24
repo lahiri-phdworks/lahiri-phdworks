@@ -6,11 +6,12 @@ and software frameworks during my `research` where `KLEE`, `LLVM`, `Z3`, `CVC4`,
 ## Slack Campus Lead : https://slackcommunity.com/u/mbhef9/#/about 
 
 ## My PhD Works 😎😎 Profile :
+
 <a href="https://github.com/lahiri-phdworks/lahiri-phdworks/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiri-phdworks&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="100%" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiri-username=codersguild&show_icons=true&theme=light&line_height=30" />
 </a>
 <a href="https://github.com/lahiri-phdworks/lahiri-phdworks/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lahiri-phdworks&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Carlos' GitHub Stats" />
+  <img align="center" height="100%" width="100%"  src="https://github-readme-stats.vercel.app/api?username=lahiri-username=codersguild&show_icons=true&theme=light&line_height=30&count_private=true />
 </a>
 
 ![HBFR](https://raw.githubusercontent.com/lahiri-phdworks/lahiri-phdworks/master/hacktoberfest_1.png)

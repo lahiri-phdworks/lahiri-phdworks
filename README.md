@@ -13,6 +13,4 @@ and software frameworks during my `research` where `KLEE`, `LLVM`, `Z3`, `CVC4`,
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lahiri-phdworks&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Carlos' GitHub Stats" />
 </a>
 
-<div align="center">
 ![HBFR](https://raw.githubusercontent.com/lahiri-phdworks/lahiri-phdworks/master/hacktoberfest_1.png)
-</div>

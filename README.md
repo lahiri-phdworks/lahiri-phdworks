@@ -5,6 +5,8 @@ and software frameworks during my `research` where `KLEE`, `LLVM`, `Z3`, `CVC4`,
 
 ## Slack Campus Lead : https://slackcommunity.com/u/mbhef9/#/about 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lahiri-phdworks)](https://github.com/lahiri-phdworks/lahiri-phdworks)
+
 ## My PhD Works 😎😎 Profile :
 
 <a href="https://github.com/lahiri-phdworks/lahiri-phdworks/">

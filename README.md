@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a CS Ph.D. student at IIT Kanpur. My core area of research is `Formal Methods`, `Program Analysis`, `Software Verification & Testing`. I work with various tools
-and software frameworks during my `research` where `KLEE`, `LLVM`, `Z3`, `CVC4`, `PyTorch`, `SciPy` etc are just to name a few. 
+I am a CS Ph.D. student at IIT Kanpur. My core area of research is `Formal Methods`, `Program Analysis`, and `Program Verification`. I work with a variety of frameworks and tools and software frameworks during my `research` where `KLEE`, `LLVM`, `Z3`, `CVC4`, `PyTorch`, `SciPy`, `keras` etc are just to name a few. 
 
 ## Slack Campus Lead : https://slackcommunity.com/u/mbhef9/#/about 
 

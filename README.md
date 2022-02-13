@@ -14,9 +14,7 @@ These videos shed light on some of the tools, techniques and problems that I tac
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/te2iYyZfckg/3.jpg)](https://www.youtube.com/watch?v=te2iYyZfckg)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RxL_1AfV7N4/2.jpg)](https://www.youtube.com/watch?v=RxL_1AfV7N4)
 
-## Slack Campus Lead : https://slackcommunity.com/u/mbhef9/#/about 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lahiri-phdworks)](https://github.com/lahiri-phdworks/lahiri-phdworks)
+### Slack Campus Lead : https://slackcommunity.com/u/mbhef9/#/about 
 
 ## My PhD Works 😎😎 Profile :
 
@@ -26,5 +24,4 @@ These videos shed light on some of the tools, techniques and problems that I tac
 <a href="https://github.com/lahiri-phdworks/lahiri-phdworks/">
  <img align="center"  height="75%" width="60%" src="https://github-readme-stats.vercel.app/api?username=lahiri-phdworks&count_private=true&show_icons=true&theme=light&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
   </a>
-
 ![HBFR](https://raw.githubusercontent.com/lahiri-phdworks/lahiri-phdworks/master/hacktoberfest_1.png)

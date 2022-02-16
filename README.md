@@ -7,7 +7,6 @@ I am a CS Ph.D. student at IIT Kanpur. My core area of research is `Formal Metho
 These videos shed light on some of the tools, techniques and problems that I tackle in my PhD. The exact problems, tools and nature of the solution varies a lot from what is shown here but since it I am working on new unsolved problems, but the general overview is quite same.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-CTNS2D-kbY/1.jpg)](https://www.youtube.com/watch?v=-CTNS2D-kbY)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tjkLPErCFW0/1.jpg)](https://www.youtube.com/watch?v=tjkLPErCFW0)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QLIQpF9ENqk/3.jpg)](https://www.youtube.com/watch?v=QLIQpF9ENqk)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PS-4yD5WgCQ/2.jpg)](https://www.youtube.com/watch?v=PS-4yD5WgCQ&list=PLBmY8PAxzwIEGtnJiucyGAnwWpxACE633)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JhCsnws7vuw/3.jpg)](https://www.youtube.com/watch?v=JhCsnws7vuw)

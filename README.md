@@ -2,16 +2,10 @@
 
 I am a CS Ph.D. student at IIT Kanpur. My core area of research is `Formal Methods`, `Program Analysis`, and `Program Verification`. I work with a variety of frameworks and tools and software frameworks during my `research` where `KLEE`, `LLVM`, `Z3`, `CVC4`, `PyTorch`, `SciPy`, `keras` etc are just to name a few. 
 
-## Videos
+## Research Stuff.
 
-These videos shed light on some of the tools, techniques and problems that I tackle in my PhD. The exact problems, tools and nature of the solution varies a lot from what is shown here but since it I am working on new unsolved problems, but the general overview is quite same.
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-CTNS2D-kbY/1.jpg)](https://www.youtube.com/watch?v=-CTNS2D-kbY)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QLIQpF9ENqk/3.jpg)](https://www.youtube.com/watch?v=QLIQpF9ENqk)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PS-4yD5WgCQ/2.jpg)](https://www.youtube.com/watch?v=PS-4yD5WgCQ&list=PLBmY8PAxzwIEGtnJiucyGAnwWpxACE633)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JhCsnws7vuw/3.jpg)](https://www.youtube.com/watch?v=JhCsnws7vuw)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/te2iYyZfckg/3.jpg)](https://www.youtube.com/watch?v=te2iYyZfckg)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RxL_1AfV7N4/2.jpg)](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+- Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO](https://llvm.org/devmtg/2022-04-03/)
+- Our work on **Almost Correct Invariants** got accepted in ISSTA 2022 (Daejeon, South Korea). [ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/home/issta-2022)
 
 ### Slack Campus Lead : https://slackcommunity.com/u/mbhef9/#/about 
 

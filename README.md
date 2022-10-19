@@ -20,3 +20,4 @@ I am a CS Ph.D. student at IIT Kanpur. My core area of research is `Formal Metho
   </a>
   
 ![HBFR](https://raw.githubusercontent.com/lahiri-phdworks/lahiri-phdworks/master/hacktoberfest_1.png)
+![HBFR](https://raw.githubusercontent.com/lahiri-phdworks/lahiri-phdworks/master/hactober22.png)

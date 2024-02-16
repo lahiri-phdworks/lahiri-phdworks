@@ -5,6 +5,7 @@ I am a CS Ph.D. student at IIT Kanpur. My core area of research is `Formal Metho
 ## Research Stuff.
 
 - Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO-2022](https://www.youtube.com/watch?v=ECwP3HRP0Z4)
+- Our work on **Chiron Framework** got accepted in 38th IEEE/ACM International Conference on Automated Software Engineering (ASE). [An Integrated Program Analysis Framework for Graduate Courses in Programming Languages and Software Engineering](https://www.computer.org/csdl/proceedings-article/ase/2023/299600a598/1SBGAaQGZi0)
 - My Doctoral Sympossium at SPLASH 2022 (OOPSLA2-2022). [https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components](https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components)
 - Our work on **Almost Correct Invariants** got accepted in ISSTA 2022 (Daejeon, South Korea). [https://dl.acm.org/doi/10.1145/3533767.3534381](https://dl.acm.org/doi/10.1145/3533767.3534381)
 - Our work on **Symbolic Execution for Randomized Programs** got accepted in OOPSLA 2022 (Round 2). [https://dl.acm.org/doi/10.1145/3563344](https://dl.acm.org/doi/10.1145/3563344)

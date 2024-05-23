@@ -54,10 +54,10 @@ I work with a variety of frameworks and tools and software frameworks during my 
 ## My PhD Works 😎😎 Profile :
 
 <a href="https://github.com/lahiri-phdworks/lahiri-phdworks/">
-  <img align="center" height="35%" width="36%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiri-phdworks&show_icons=true&theme=light&line_height=30" />
+  <img align="center" height="35%" width="36%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiri-phdworks&show_icons=true&theme=dark&line_height=30" />
 </a>
 <a href="https://github.com/lahiri-phdworks/lahiri-phdworks/">
- <img align="center"  height="75%" width="60%" src="https://github-readme-stats.vercel.app/api?username=lahiri-phdworks&count_private=true&show_icons=true&theme=light&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
+ <img align="center"  height="75%" width="60%" src="https://github-readme-stats.vercel.app/api?username=lahiri-phdworks&count_private=true&show_icons=true&theme=dark&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
 </a>
   
 ![HBFR](https://raw.githubusercontent.com/lahiri-phdworks/lahiri-phdworks/master/hacktoberfest_1.png)

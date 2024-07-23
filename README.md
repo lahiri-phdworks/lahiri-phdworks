@@ -17,9 +17,15 @@ I work with a variety of frameworks and tools and software frameworks during my 
 - Our work on **Symbolic Execution for Randomized Programs** got accepted in OOPSLA 2022 (Round 2). [https://dl.acm.org/doi/10.1145/3563344](https://dl.acm.org/doi/10.1145/3563344)
 - LLVM MeetUp Talk on **Hot Path SSA**: [LLVM MeetUp Talk](https://www.youtube.com/watch?si=kqmmJpQ0SeLiHtgt&v=GW_icF7J2kY&feature=youtu.be)
 
-### Slack Campus Lead : https://slackcommunity.com/u/mbhef9/#/about 
+## YouTube Links. 
 
-## Frameworks/Languages Experience :
+- [Profile-guided optimizations made easy - The Hot Path SSA Form in LLVM](https://www.youtube.com/watch?v=GW_icF7J2kY)
+- [Verification of Programs with Concealed Components, SPLASH 2022, Doctoral Symposium.](https://www.youtube.com/watch?v=NDYqQAmEkdo&list=PLyrlk8Xaylp666x-_hYq4acw9BQH2Eb05&index=6)
+- [Almost Correct Invariants: Synthesizing Inductive Invariants by Fuzzing Proofs, ISSTA 2022](https://www.youtube.com/watch?v=q8XOOYWw3Bk&list=PLVVdVluavC8ku7-X0oJ5RTSRvy2w5dJE4&index=19)
+
+### Slack Campus Lead: https://slackcommunity.com/u/mbhef9/#/about 
+
+## Frameworks/Languages Experience:
 
 [![holder](https://img.shields.io/badge/-Linode-green?style=for-the-badge&logo=linode&logoColor=white)](https://img.shields.io/badge/-Linode-green?style=for-the-badge&logo=linode&logoColor=white)
 [![holder](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
@@ -51,7 +57,7 @@ I work with a variety of frameworks and tools and software frameworks during my 
 [![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)
 [![holder](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
 
-## My PhD Works 😎😎 Profile :
+## My PhD Works 😎😎 Profile:
 
 <a href="https://github.com/lahiri-phdworks/lahiri-phdworks/">
   <img align="center" height="35%" width="36%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiri-phdworks&show_icons=true&theme=tokyonight&line_height=30" />

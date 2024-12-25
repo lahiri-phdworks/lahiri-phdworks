@@ -10,16 +10,16 @@ I work with a variety of frameworks and tools and software frameworks during my 
 
 ## Research Stuff.
 
-- Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO-2022](https://www.youtube.com/watch?v=ECwP3HRP0Z4)
+- Our work on **Puzzle Generation** got accepted in 39th IEEE/ACM International Conference on Automated Software Engineering (ASE). [Program Synthesis Meets Visual What-Comes-Next Puzzles](https://dl.acm.org/doi/10.1145/3691620.3695015)
 - Our work on **Chiron Framework** got accepted in 38th IEEE/ACM International Conference on Automated Software Engineering (ASE). [An Integrated Program Analysis Framework for Graduate Courses in Programming Languages and Software Engineering](https://www.computer.org/csdl/proceedings-article/ase/2023/299600a598/1SBGAaQGZi0)
-- My Doctoral Symposium at SPLASH 2022 (OOPSLA2-2022). [https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components](https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components)
+- My **Doctoral Symposium** at SPLASH 2022 (OOPSLA2-2022). [https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components](https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components)
 - Our work on **Almost Correct Invariants** got accepted in ISSTA 2022 (Daejeon, South Korea). [https://dl.acm.org/doi/10.1145/3533767.3534381](https://dl.acm.org/doi/10.1145/3533767.3534381)
 - Our work on **Symbolic Execution for Randomized Programs** got accepted in OOPSLA 2022 (Round 2). [https://dl.acm.org/doi/10.1145/3563344](https://dl.acm.org/doi/10.1145/3563344)
-- LLVM MeetUp Talk on **Hot Path SSA**: [LLVM MeetUp Talk](https://www.youtube.com/watch?si=kqmmJpQ0SeLiHtgt&v=GW_icF7J2kY&feature=youtu.be)
+- Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO-2022](https://www.youtube.com/watch?v=ECwP3HRP0Z4)
 
 ## YouTube Links. 
 
-- [Profile-guided optimizations made easy - The Hot Path SSA Form in LLVM](https://www.youtube.com/watch?v=GW_icF7J2kY)
+- [Profile-guided optimizations made easy - The Hot Path SSA Form in LLVM (LLVM MeetUp)](https://www.youtube.com/watch?v=GW_icF7J2kY)
 - [Verification of Programs with Concealed Components, SPLASH 2022, Doctoral Symposium.](https://www.youtube.com/watch?v=NDYqQAmEkdo&list=PLyrlk8Xaylp666x-_hYq4acw9BQH2Eb05&index=6)
 - [Almost Correct Invariants: Synthesizing Inductive Invariants by Fuzzing Proofs, ISSTA 2022](https://www.youtube.com/watch?v=q8XOOYWw3Bk&list=PLVVdVluavC8ku7-X0oJ5RTSRvy2w5dJE4&index=19)
 

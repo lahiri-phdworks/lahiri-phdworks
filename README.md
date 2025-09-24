@@ -27,6 +27,7 @@ I work with a variety of frameworks and tools and software frameworks during my 
 
 ## Frameworks/Languages Experience:
 
+[![holder](https://img.shields.io/badge/ctouac1265-Katana-GF76-11UE?style=for-the-badge&logo=linode&logoColor=red)](https://img.shields.io/badge/-Linode-green?style=for-the-badge&logo=linode&logoColor=white)
 [![holder](https://img.shields.io/badge/-Linode-green?style=for-the-badge&logo=linode&logoColor=white)](https://img.shields.io/badge/-Linode-green?style=for-the-badge&logo=linode&logoColor=white)
 [![holder](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
 [![holder](https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white)

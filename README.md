@@ -7,7 +7,7 @@ I work with a variety of frameworks and tools and software frameworks during my 
 - [I love software architecture and system design.](https://github.com/codersguild/System-Design)
 
 ## DPLB Link.
-- [https://dblp.org/pid/325/0902.html][https://dblp.org/pid/325/0902.html]
+- [https://dblp.org/pid/325/0902.html](https://dblp.org/pid/325/0902.html)
   
 ## Research Stuff.
 

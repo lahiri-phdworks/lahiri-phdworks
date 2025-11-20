@@ -6,6 +6,9 @@ I work with a variety of frameworks and tools and software frameworks during my 
 - [Have a Look at my Development Profile](https://github.com/codersguild)
 - [I love software architecture and system design.](https://github.com/codersguild/System-Design)
 
+## DPLB Link.
+- [https://dblp.org/pid/325/0902.html][https://dblp.org/pid/325/0902.html]
+  
 ## Research Stuff.
 
 - Our work on **Puzzle Generation** got accepted in 39th IEEE/ACM International Conference on Automated Software Engineering (ASE). [Program Synthesis Meets Visual What-Comes-Next Puzzles](https://dl.acm.org/doi/10.1145/3691620.3695015)

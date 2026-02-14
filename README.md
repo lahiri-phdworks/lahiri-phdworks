@@ -62,13 +62,6 @@ I work with a variety of frameworks and tools and software frameworks during my 
 [![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=14+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=14+&logoColor=color)
 [![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)
 [![holder](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
-
-## My PhD Works 😎😎 Profile:
-
-<a href="https://github.com/lahiri-phdworks/lahiri-phdworks/">
-  <img align="center" height="35%" width="36%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiri-phdworks&show_icons=true&theme=tokyonight&line_height=30" />
-</a>
-<a href="https://github.com/lahiri-phdworks/lahiri-phdworks/">
  <img align="center"  height="75%" width="60%" src="https://github-readme-stats.vercel.app/api?username=lahiri-phdworks&count_private=true&show_icons=true&theme=tokyonight&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
 </a>
   

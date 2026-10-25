@@ -1,34 +1,41 @@
 # Hi there 👋
 
-I am a CS Ph.D. student at IIT Kanpur. My core area of research is **Formal Methods**, **Program Analysis**, and **Program Verification**. 
-I work with a variety of frameworks and tools and software frameworks during my **research** where **KLEE**, **LLVM**, **Z3**, **CVC4**, **PyTorch**, **Scikit-learn**, **Keras**, **LangChain**, **Cline**, **MCP** are just to name a few. 
+I have completed my **M.Tech** and **Ph.D.** in Computer Science and Engineering from **IIT Kanpur**. My doctoral thesis work is on **Program Analysis and Reasoning over Diverse Domains**, and my master's thesis work is on **Relational Synthesis**. 
+My core area of research is **Formal Methods**, **Program Analysis**, and **Program Verification**. I was supervised by [**Dr. Subhajit Roy**](https://www.cse.iitk.ac.in/users/subhajit/) who helped me gain a deeper understanding and appreciation of Computer Science.
+
+I am an expert full-stack developer and researcher with expertise in **KLEE**, **LLVM**, **AFLplusplus**, **Z3**, **CVC4**, **PyTorch**, **Scikit-learn**, **Keras**, **LangGraph**, **Cline**, **Agno**, **FastMCP**, and many more. 
+I love to solve real-world problems with robust engineering at scale, blending both theory-rich CS, software engineering, and system design.
 
 - [Have a Look at my Development Profile](https://github.com/codersguild)
 - [I love software architecture and system design.](https://github.com/codersguild/System-Design)
 - [https://sumit.reasonlearn.com/](https://sumit.reasonlearn.com/)
 
-## ACM Computing Publish
+## ACM Computing Publications
+
 - [https://dl.acm.org/profile/99660519568/publications?Role=author](https://dl.acm.org/profile/99660519568/publications?Role=author)
 
-## Research Profile.
+## Research Profile
 
-- [https://dblp.org/pid/325/0902.html](https://dblp.org/pid/325/0902.html)
-- [[https://dblp.org/pid/325/0902.html](https://orcid.org/0000-0002-6867-9035)](https://dblp.org/pid/325/0902.html)
+- [My DPLB Profile](https://dblp.org/pid/325/0902.html)
+- [My ORCID Profile](https://orcid.org/0000-0002-6867-9035)
   
-## Research Stuff.
+## Research Works.
 
-- Our work on **Puzzle Generation** got accepted in 39th IEEE/ACM International Conference on Automated Software Engineering (ASE). [Program Synthesis Meets Visual What-Comes-Next Puzzles](https://dl.acm.org/doi/10.1145/3691620.3695015)
-- Our work on **Chiron Framework** got accepted in 38th IEEE/ACM International Conference on Automated Software Engineering (ASE). [An Integrated Program Analysis Framework for Graduate Courses in Programming Languages and Software Engineering](https://www.computer.org/csdl/proceedings-article/ase/2023/299600a598/1SBGAaQGZi0)
-- My **Doctoral Symposium** at SPLASH 2022 (OOPSLA2-2022). [https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components](https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components)
-- Our work on **Almost Correct Invariants** got accepted in ISSTA 2022 (Daejeon, South Korea). [https://dl.acm.org/doi/10.1145/3533767.3534381](https://dl.acm.org/doi/10.1145/3533767.3534381)
-- Our work on **Symbolic Execution for Randomized Programs** got accepted in OOPSLA 2022 (Round 2). [https://dl.acm.org/doi/10.1145/3563344](https://dl.acm.org/doi/10.1145/3563344)
-- Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO-2022](https://www.youtube.com/watch?v=ECwP3HRP0Z4)
+- Our work on **LLM-Driven Unsatisfiability Proofs** got accepted at 40th ACM Object-Oriented Programming, Systems, Languages, and Applications (**OOPSLA2 2026**). [LLM-Assisted Unsatisfiability Proofs for Satisfiability Modulo Theories, Oracles, and Natural Language](https://dl.acm.org/doi/10.1145/3839451)
+- Our work on **Puzzle Generation** got accepted at the 39th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2024**). [Program Synthesis Meets Visual What-Comes-Next Puzzles](https://dl.acm.org/doi/10.1145/3691620.3695015)
+- Our work on **Chiron Framework** got accepted at the 38th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2023**). [An Integrated Program Analysis Framework for Graduate Courses in Programming Languages and Software Engineering](https://www.computer.org/csdl/proceedings-article/ase/2023/299600a598/1SBGAaQGZi0)
+- My **Doctoral Symposium** at SPLASH 2022 (**OOPSLA2 2022**). [https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components](https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components)
+- Our work on **Symbolic Execution for Randomized Programs** got accepted in **OOPSLA 2022** (Round 2). [https://dl.acm.org/doi/10.1145/3563344](https://dl.acm.org/doi/10.1145/3563344)
+- Our work on **Almost Correct Invariants** got accepted in **ISSTA 2022** (Daejeon, South Korea). [https://dl.acm.org/doi/10.1145/3533767.3534381](https://dl.acm.org/doi/10.1145/3533767.3534381)
+- Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at **CGO 2020** (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO-2022](https://www.youtube.com/watch?v=ECwP3HRP0Z4)
 
-## YouTube Links. 
+## Talk Links. 
 
 - [Profile-guided optimizations made easy - The Hot Path SSA Form in LLVM (LLVM MeetUp)](https://www.youtube.com/watch?v=GW_icF7J2kY)
 - [Verification of Programs with Concealed Components, SPLASH 2022, Doctoral Symposium.](https://www.youtube.com/watch?v=NDYqQAmEkdo&list=PLyrlk8Xaylp666x-_hYq4acw9BQH2Eb05&index=6)
 - [Almost Correct Invariants: Synthesizing Inductive Invariants by Fuzzing Proofs, ISSTA 2022](https://www.youtube.com/watch?v=q8XOOYWw3Bk&list=PLVVdVluavC8ku7-X0oJ5RTSRvy2w5dJE4&index=19)
+- [LLVM MeetUp Talk on **Hot Path SSA**](https://www.youtube.com/watch?si=kqmmJpQ0SeLiHtgt&v=GW_icF7J2kY&feature=youtu.be)
+- [Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea)](https://www.youtube.com/watch?v=ECwP3HRP0Z4)
 
 ### Slack Campus Lead: https://slackcommunity.com/u/mbhef9/#/about 
 
